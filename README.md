@@ -15,10 +15,10 @@
             ]
           },{
             "DataBases":[
-              {"BDD": "sql", Level: "80%"},
-              {"BDD": "mysql", Level: "80%"},
-              {"BDD": "mongodb", Level: "80%"},
-              {"BDD": "Postgress", Level: "10%"},
+              {"BDD": "sql", "Level": "80%"},
+              {"BDD": "mysql", "Level": "80%"},
+              {"BDD": "mongodb", "Level": "80%"},
+              {"BDD": "Postgress", "Level": "10%"},
             ]
           },{
             "frameworks":[
